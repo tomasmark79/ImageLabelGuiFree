@@ -1,12 +1,5 @@
 # ImageLabelGuiFree
 
-[![Linux](https://github.com/tomasmark79/ImageLabelGuiFree/actions/workflows/linux.yml/badge.svg)](https://github.com/tomasmark79/ImageLabelGuiFree/actions/workflows/linux.yml)
-
-<!--
-[![MacOS](https://github.com/tomasmark79/ImageLabelGuiFree/actions/workflows/macos.yml/badge.svg)](https://github.com/tomasmark79/ImageLabelGuiFree/actions/workflows/macos.yml)
-[![Windows](https://github.com/tomasmark79/ImageLabelGuiFree/actions/workflows/windows.yml/badge.svg)](https://github.com/tomasmark79/ImageLabelGuiFree/actions/workflows/windows.yml)  
- -->
-
 This is a GUI tool to quickly add annotations for an image. It tries to support the Latex package: tikz-imagelabels package or tikz-imagelabels – Put labels on images using TikZ
 
 Original code by [asmwarrior](https://github.com/asmwarrior/image-label-gui)
